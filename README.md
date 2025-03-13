@@ -1,0 +1,1 @@
+This repository contains a Python script for performing binary classification on the Iris dataset using Logistic Regression. The original Iris dataset, which has three classes, is modified to a binary classification problem by distinguishing class 0 (Iris Setosa) from the other two classes (Iris Versicolor and Iris Virginica).
